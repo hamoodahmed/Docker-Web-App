@@ -1,4 +1,4 @@
-# task-02-deploy.py (Windows-friendly, fixed)
+# task-2-deploy.py (Windows-friendly, fixed)
 import docker
 import os
 
