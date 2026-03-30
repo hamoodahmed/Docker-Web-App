@@ -6,13 +6,13 @@
 
 #!/bin/bash
 
-sh ./task-03-load-generator.sh $1 $2 $3 $4 $5
+sh ./task-3-load-generator.sh $1 $2 $3 $4 $5
 
 sleep 10s
 
 a='loadgen'
 echo $a$5 >> database-names.csv
 
-python task-05-pipeline.py $5 > collections.csv
+python task-5-pipeline.py $5 > collections.csv
 
 echo "FINISHED"
