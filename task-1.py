@@ -1,6 +1,6 @@
 # Python script for pulling and running a container
 # The image run here is a prime number check: 'nclcloudcomputing/javabenchmarkapp'
-# usage: python task-01.py
+# usage: python task-1.py
 
 # loading modules
 import docker
