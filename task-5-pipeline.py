@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Python script for pulling raw data from cAdvisor and storing in MongoDB
-# usage: python task-05-pipeline.py <database_number>
+# usage: python task-5-pipeline.py <database_number>
 # Returns: prints the collection names within the database
 
 import docker
