@@ -1,5 +1,5 @@
 # Python script for showing running services and containers
-# usage: python task-02-display.py
+# usage: python task-2-display.py
 
 # loading modules
 import docker
